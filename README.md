@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Australia is wider than the moon
 -->
 
-### 
-As a highly skilled and experienced Frontend developer, I am passionate about building robust and innovative web applications. With a solid foundation in both front-end and back-end development, I excel at creating seamless user experiences and scalable solutions.
-
