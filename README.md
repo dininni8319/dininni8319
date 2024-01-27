@@ -4,7 +4,7 @@
 #### 💬 Ask me how I started my journey into Tech
 #### 📫 How to reach me: https://www.linkedin.com/in/salvatoredininni
 #### 📚 I'm a Computer Science major at UMGC
-#### 😄 Pronouns: he/his
+#### 😄 Pronouns: he/him
 #### ⚡ Fun fact: Australia is wider than the moon 
 
 ## About
