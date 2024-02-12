@@ -6,6 +6,7 @@
 #### 📚 I'm a Computer Science major at UMGC
 #### 😄 Pronouns: he/him
 #### ⚡ Fun fact: Australia is wider than the moon 
+###  💼 www.salvatore-dininni.com
 
 ## About
 From the sizzling world of the kitchen to the dynamic realm of tech, my journey took an unexpected turn during the pandemic. Embracing the art of coding with TypeScript, the younger cousin of JavaScript, has become my passion. With a deep understanding of frontend technologies, I bring a unique blend of creativity and technical prowess to every project. Currently exploring new opportunities in the frontend landscape – let's create something amazing together!
